@@ -1,3 +1,5 @@
+let g:syntastic_haskell_checkers = ['hlint']
+
 augroup haskell
   autocmd Filetype haskell setlocal tabstop=8
   autocmd Filetype haskell setlocal expandtab

@@ -1,0 +1,9 @@
+# This file contains default non-project-specific settings for 'stack', used
+# in all projects.  For more information about stack's configuration, see
+# http://docs.haskellstack.org/en/stable/yaml_configuration.html
+#
+templates:
+  params:
+    author-email: kyle@kemitchell.com
+    author-name: Kyle E. Mitchell
+    github-username: kemitchell
